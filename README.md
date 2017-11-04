@@ -1,4 +1,4 @@
-#SOLID Architecture Principle
+# SOLID Architecture Principle
 
 S stands for SRP (Single responsibility principle):- A class should take care of only one responsibility.
 
